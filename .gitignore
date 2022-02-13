@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# USER SPECIFIC
+Ch
+Chat Logs 1.docx
+chromedriver.exe
+chromedriver_win32.zip

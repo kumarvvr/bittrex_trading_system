@@ -1,0 +1,10 @@
+{
+  "API_KEY":"PUT YOUR API KEY HERE",
+  "API_SECRET":"PUT YOUR API SECRET HERE",
+  "MARKET_PREFIX":"BTC-",
+  "BASE_URL":"https://bittrex.com/api/v1.1/market/buylimit?market={0}&quantity={1}&rate={2}&apikey={3}&nonce={4}",
+  "HASH_URL":"https://bittrex.com/api/v1.1/market/buylimit?apikey={0}&nonce={1}",
+  "CURRENCY_RATE_URL":"https://bittrex.com/api/v1.1/public/getticker?market={0}",
+  "BTC_BUY_VAL":"0.001"
+}
+
